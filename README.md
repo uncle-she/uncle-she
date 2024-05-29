@@ -6,7 +6,7 @@
 
 ### 后端 Backend
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="14" /> Kotlin + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="14" /> Spring Boot + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" height="14" /> Gradle
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="14" /> Kotlin + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="14" /> Spring Boot + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" height="14" /> Gradle
 
 ### 前端 Frontend
 
