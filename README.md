@@ -16,16 +16,15 @@
 
 ### 其他语言尝试
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="14" /> Golang
-  - 网络编程相关
-  - 高并发
-  - 业务不复杂
-  - 有性能要求
-
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" height="14" /> Rust
   - 内存安全要求
   - 无垃圾回收
   - 有性能要求
+
+### 暂时不会尝试
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="14" /> Golang
+  - 不是 Null Safty 的类型系统
 
 ## GitHub 统计 Stats
 
