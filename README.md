@@ -6,11 +6,26 @@
 
 ### 后端 Backend
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="14" /> Kotlin + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="14" /> Spring Boot + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" height="14" /> Gradle
+- 产品：<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="14" /> Kotlin + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="14" /> Spring Boot + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" height="14" /> Gradle
+- 尝试：<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" height="14" /> Swift + Vapor + SwiftPM
 
 ### 前端 Frontend
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="14" /> TypeScript + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="14" /> Angular + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="14" /> NPM
+- 产品：<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="14" /> TypeScript + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="14" /> Angular + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="14" /> NPM
+- 尝试：<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="14" /> Kotlin Multiplatform + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" height="14" /> Gradle + Fritz2
+
+### 其他语言尝试
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="14" /> Golang
+  - 网络编程相关
+  - 高并发
+  - 业务不复杂
+  - 有性能要求
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" height="14" /> Rust
+  - 内存安全要求
+  - 无垃圾回收
+  - 有性能要求
 
 ## GitHub 统计 Stats
 
