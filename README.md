@@ -4,15 +4,18 @@
 
 ## 主要技术栈 Main Tech Stack
 
-### 后端 Backend
+### 后端 Backend (主要 Main)
 
 - 产品：<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="14" /> Kotlin + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="14" /> Spring Boot + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" height="14" /> Gradle
 - 尝试：<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" height="14" /> Swift + Vapor + SwiftPM
 
-### 前端 Frontend
+### 前端 Frontend (次要 Secondary)
 
 - 产品：<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="14" /> TypeScript + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="14" /> Angular + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="14" /> NPM
 - 尝试：<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="14" /> Kotlin Multiplatform + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" height="14" /> Gradle + Fritz2
+
+### 移动端 Mobile (次要 Secondary)
+
 
 ### 其他语言尝试
 
