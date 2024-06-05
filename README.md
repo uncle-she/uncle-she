@@ -24,11 +24,6 @@
   - 无垃圾回收
   - 有性能要求
 
-### 暂时不会尝试
-
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="14" /> Golang
-  - 不是 Null Safty 的类型系统
-
 ## GitHub 统计 Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncle-she&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=ffff" height="160" /> <img src="https://github-readme-stats.vercel.app/api?username=uncle-she&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="160" />
